@@ -1,0 +1,5 @@
+#
+#
+#
+#
+#    .sql syntax highlighting made the most sense which is why it is the way it is
